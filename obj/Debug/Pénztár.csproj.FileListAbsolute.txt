@@ -1,0 +1,7 @@
+C:\Users\gecsel\Gitwork\Pénztár\bin\Debug\Pénztár.exe.config
+C:\Users\gecsel\Gitwork\Pénztár\bin\Debug\Pénztár.exe
+C:\Users\gecsel\Gitwork\Pénztár\bin\Debug\Pénztár.pdb
+C:\Users\gecsel\Gitwork\Pénztár\obj\Debug\Pénztár.csproj.AssemblyReference.cache
+C:\Users\gecsel\Gitwork\Pénztár\obj\Debug\Pénztár.csproj.CoreCompileInputs.cache
+C:\Users\gecsel\Gitwork\Pénztár\obj\Debug\Pénztár.exe
+C:\Users\gecsel\Gitwork\Pénztár\obj\Debug\Pénztár.pdb
